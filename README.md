@@ -13,7 +13,8 @@ from Harvard University.
 
 All code is written from scratch following the course guidelines.
 ---------------------------------------------------------------------------
-FINAL PROJECT
+#FINAL PROJECT
+---------------------------------------------------------------------------
 # Huffman Coding Project
 #### https://youtu.be/jISrX5zlveo
 #### Description:
