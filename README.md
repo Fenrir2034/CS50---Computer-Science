@@ -1,3 +1,19 @@
+## CS50’s Introduction to Computer Science (CS50x)
+from Harvard University.
+
+💡 Topics covered:
+
+- Algorithms, data structures
+
+- Web development, databases, Flask
+
+- C, memory management, and low-level programming
+
+- Problem solving and computational thinking
+
+All code is written from scratch following the course guidelines.
+---------------------------------------------------------------------------
+FINAL PROJECT
 # Huffman Coding Project
 #### https://youtu.be/jISrX5zlveo
 #### Description:
